@@ -1,7 +1,4 @@
-##### 6 February 2022
-# Review Blog One
-##### by Hana Lee Todhunter
-### Project: _Southern Mosaic_
+## Project: _Southern Mosaic_
 ### Project Director: Aditya Jain
 ### Project URL: [https://adityajain15.github.io/lomax/](https://adityajain15.github.io/lomax/)
 
