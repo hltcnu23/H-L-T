@@ -1,6 +1,6 @@
 ## Project: _Southern Mosaic_
-#### Project Director: Aditya Jain
-#### Project URL: [https://adityajain15.github.io/lomax/](https://adityajain15.github.io/lomax/)
+### Project Director: Aditya Jain
+### Project URL: [https://adityajain15.github.io/lomax/](https://adityajain15.github.io/lomax/)
 
 ![Southern Mosaic](https://user-images.githubusercontent.com/97922448/152667961-77896ba4-95b5-43a7-b6f4-5c3f35455f85.png)
 
