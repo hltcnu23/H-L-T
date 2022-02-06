@@ -24,4 +24,4 @@ The beginning of the website features a map that shows the journey through the e
 
 Although the color contrast was engaging, having all the information on one page is overwhelming. The information is interesting and well organized, however, it becomes tiresome and overbearing to continue to scroll and read. Dividing the sections into different pages would be better for maintaining reader interest. This would be more efficient rather than having one whole page of scrolling.
 #### _Conclusion_
-yay
+_Southern Mosaic_ was appealing to readers and easy to navigate. I enjoyed learning and listening to the folk songs that were documented. Most of the interactive contraptions were engaging and insightful, however, as I stated before, having more control over the movements on the map would have been beneficial to the reader as well as division of the sections for the states. Overall, the website successfully informs readers about the journey of the Lomaxes and the history of various folk songs. 
